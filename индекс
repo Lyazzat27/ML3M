@@ -2,8 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=4">
     <title>Бистро Дэвидо Чу Китай</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
@@ -17,14 +16,13 @@
         </div>
         
         <div id="colla-nv" class="colla nvbar-collapse">
-           <ul id="nav-list" class="olla nvb">
-            <li id="navHomeButton" class="visible-xs active">
+           <ul id="тlist" class="olla nvb">
               <a href="index.html">
                 <span class="Рolla nvb"></span> Home</a>
             </li>
-            <li id="navMenuButton">
-              <a href="#" onclick="$dc.loadMenuCategories();">
-                <span class="Рolla nvby"></span><br class="hidden-xs"> Menu</a>
+            <li id="кнопка меню">
+              <a href="#" onclick="$dc.catalog;">
+                <span class="Рolla nvby"></span><br class="hidi-s"> меню</a>
             </li>
            
   </header>
@@ -48,12 +46,12 @@
           <p>*Доставка только близко.</p>
           <hr class="visible-xs">
         </section>
-        <section id="testimonials" class="col-sm-4">
+        <section id="тестимони" class="c0sm-4">
           <p>"Лучшая еда!"</p>
           <p>"круто!"</p>
         </section>
       </div>
-      <div class="text-center">&copy; Copyright David Chu's China Bistro 2016</div>
+      <div class="tеxt-cеntеr">&copy; Бистро Дэвида 876дн</div>
     </div>
   </footer>
 
